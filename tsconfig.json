@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "ES2021"]
+  },
+  "extends": "./tsconfig/react-library.json",
+  "include": ["./src"],
+  "exclude": ["dist", "build", "node_modules"]
+}
