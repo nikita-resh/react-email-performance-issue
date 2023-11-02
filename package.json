@@ -9,7 +9,7 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "@react-email/components": "0.0.7",
+    "@react-email/components": "0.0.11",
     "@react-email/render": "0.0.9",
     "react-email": "1.9.5"
   },
